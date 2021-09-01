@@ -1,0 +1,25 @@
+Ukuran Sepatu = 30
+Berat Badan = 49 KG
+
+
+SUM X = 1961
+SUM Y = 3146
+SUM XY = 126457
+SUM X^2 = 78839
+SUM Y^2 = 210820
+
+
+Korelasi
+Hubungan dimiliki = Lurus/Linier
+Skala Guilford = Lemah
+Koefisien Determinasi = 9.6361818084%
+Kontribusi dari faktor lain = 90.3638181916%
+Korelasi Ukuran Sepatu dan Berat Badan = 0.310422
+
+
+Regresi
+Nilai X = 30
+Nilai Konstanta = 2.57600903511047
+Nilai Koefisien = 1.5399090051651
+Persamaan Y = (2.57600903511047) + (1.5399090051651) X
+Hasil Regresi = 49 KG
